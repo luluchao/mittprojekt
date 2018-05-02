@@ -1,0 +1,49 @@
+body{
+    background-image: url(/bilder/backgrund2w.jpg);
+     background-size: 1220px 630px;
+
+}
+
+
+.img1-w{ 
+ height:200px;  
+  width:1190px; 
+    border-radius: 10px; 
+    border: 3px solid red; 
+    
+
+}
+
+.instrutionw{
+    background-color:beige;
+    padding: 100px; 
+    border: 9px solid #e1e1e;
+    margin-right: 300px; 
+    margin-left: 300px; 
+    margin-top: 10px; 
+    margin-bottom: 15px;
+    overflow: hidden;
+}
+
+
+.W-h1{
+    
+    color: black; 
+    padding-bottom: 10px;
+    border-bottom: 3px solid #00FF00; 
+    font-family: cursive; 
+    font-size: 30px; 
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+

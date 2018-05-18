@@ -5,11 +5,11 @@ body{
 }
 
 
-.img1-w{ 
+.huvudbild{ 
  height:200px;  
   width:1000px; 
     border-radius: 10px; 
-    border: 3px solid red; 
+    border: 2px solid red; 
     margin-left: 100px;  
     margin-right: 200px; 
     
@@ -21,15 +21,14 @@ body{
     padding: 100px 90px 100px 90px;    
     border: 1px solid black;
     margin-right: 10px; 
-    margin-left: 10px; 
-    float: right;
-    left: 500px; 
+    margin-left: 120px; 
+    
     width: 400px; 
     overflow: hidden;
 }
 
 
-.W-h1{
+.h1{
     
     color: black; 
     padding-bottom: 10px;
@@ -42,27 +41,43 @@ p{
     font-size: 20px;    
  }
 
-.patis {
+.patisIcon {
  
-    float:left: 200px; 
+   
     width: 150px;
     height: 98px; 
     border-radius: 5px; 
 }
 
-pirate-warrior-decklist{
-    width: 100px; 
-    height: 1px; 
-    border-radius: 10px; 
+.decklist{
+    margin-left: 90px; 
+    width: 200px; 
+    height: 600px; 
+    border-radius: 5px; 
     
 }
 
-patis-kort {
-    float: right; 
-    right: 10px; 
+ .Patiskort{
+  order: -1;
+  width: 190px; 
+  height: 280px; 
+     margin-top: 100px; 
+     margin-left: 20px; 
+
 }
 
+.kingkort {
+    width: 190px; 
+  height: 280px; 
+    order: -1; 
+    margin-top: 500px; 
+    margin-left: -190px; 
+}
 
+main{
+    display: flex; 
+    
+}
 
 
 

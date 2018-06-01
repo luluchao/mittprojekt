@@ -1,6 +1,6 @@
 body{
     background-image: url(/bilder/backgrund2w.jpg);
-     background-size: 1220px 630px;
+     background-size: 1220px 630px; 
 
 }
 
@@ -25,6 +25,7 @@ body{
     
     width: 400px; 
     overflow: hidden;
+    
 }
 
 
@@ -38,7 +39,12 @@ body{
 }
 
 p{
-    font-size: 20px;    
+    font-size: 20px;   
+    color: black; 
+    padding-bottom: 10px;
+   
+    font-family: cursive; 
+    
  }
 
 .patisIcon {
@@ -81,5 +87,14 @@ main{
 
 
 
+.deckid p{
+    display: block; 
+    text-align: center;
+    padding: 10px;
+    border: black 10px solid;
+    margin-left: 50px; 
+    
+    width:200px;
+}
 
 

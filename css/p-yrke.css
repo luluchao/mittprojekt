@@ -1,0 +1,148 @@
+body{
+    background-image: url(/bilder/blabackgurnd.jpg);
+     background-size: 1220px 630px; 
+
+}
+
+
+h1{
+    
+    color: black; 
+    padding-bottom: 10px;
+    border-bottom: 3px solid black; 
+    font-family: cursive; 
+    font-size: 30px;    
+} 
+ 
+p{
+      color: black; 
+    padding-bottom: 10px;
+   
+    font-family: cursive; 
+    font-size: 20px;   
+}
+
+main {
+    display: flex; 
+    align-items: flex-start; 
+    justify-content: flex-start; 
+}
+
+
+.iconbild {
+    display: block; 
+    margin-top: -40px; 
+    margin-right: 200px; 
+    margin-left: 50px; 
+    margin-bottom: auto; 
+    
+    height: 320px; 
+    width: 220px;  
+    
+}
+
+.kortminecontroll {
+    display: block;
+    margin-top: px; 
+    margin-left: -200px;
+    margin-right: 100px; 
+    width:215px;
+    height: 300px; 
+    
+    
+}
+
+.Drake{
+     display: block;
+     margin-left: 10px; 
+    margin-top: -50px; 
+     width:215px;
+    height: 300px; 
+}
+
+.heroAndyin{
+     display: block;
+     width:215px;
+    height: 300px; 
+    margin-left: -200px; 
+    margin-right: 50px; 
+}
+
+
+.bilder{
+    display: grid; 
+    grid-template-columns: 1fr 1fr; 
+}
+
+
+.kortStill {
+     height: 280px; 
+    width: 200px;  
+    
+}
+
+.stillMinon{
+      height: 280px; 
+    width: 200px;  
+}
+
+.darkeStill{
+    height: 280px; 
+    width: 200px;  
+}
+
+.grassStill {
+    height: 280px; 
+    width: 200px;  
+}
+
+.magicStill {
+     height: 280px; 
+    width: 200px;  
+}
+
+
+
+.magicStill2{
+     height: 280px; 
+    width: 200px;  
+}
+.magicStill3{
+     height: 280px; 
+    width: 200px;  
+}
+.magicStill4{
+     height: 280px; 
+    width: 200px;  
+}
+.shadowstill{
+     height: 280px; 
+    width: 200px;  
+}
+.magicStill5{
+     height: 280px; 
+    width: 200px;  
+}
+
+.magicskill{
+     height: 280px; 
+    width: 200px;  
+}
+
+.still{
+     height: 80px; 
+    width: 150px; 
+    
+    margin-top: 30px; 
+    
+}
+
+
+
+
+
+
+
+
+
+

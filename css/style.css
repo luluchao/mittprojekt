@@ -5,7 +5,7 @@
 } 
 
 body{
-    background-image: url(/bilder/sk%C3%A4rbild.jpg);
+    background-image: url(../bilder/sk%C3%A4rbild.jpg);
      background-size: 1220px 630px;
 
 }

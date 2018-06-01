@@ -43,7 +43,7 @@ main {
 
 .kortminecontroll {
     display: block;
-    margin-top: px; 
+    margin-top: 0px;  
     margin-left: -200px;
     margin-right: 100px; 
     width:215px;
